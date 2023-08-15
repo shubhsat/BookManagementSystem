@@ -9,7 +9,6 @@ The project is menu-driven, providing an intuitive way to interact with the syst
 3. Update Book: Users can update the details of a specific book by entering its ID, and then providing a new name and ISBN.
 4. Delete Book: Books can be removed from the system by specifying their ID for deletion.
 5. Save and Load: The system allows users to save the book data to a file and load it back during subsequent runs.
-Usage
 
 # Requirements
 1. C Compiler (e.g GCC)
