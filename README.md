@@ -12,5 +12,5 @@ The project is menu-driven, providing an intuitive way to interact with the syst
 Usage
 
 # Requirements
-1. C Compiler (e.g., GCC)
+1. C Compiler (e.g GCC)
 2. Terminal or Command Prompt
